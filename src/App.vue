@@ -6,7 +6,7 @@
   </header>
 
   <main>
-    
+    <div class="title">Everything work right</div>
   </main>
 </template>
 
