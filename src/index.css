@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'Manrope';
-    src: url("../public/fonts/manrope/static/Manrope-Regular.ttf");
+  font-family: 'Manrope';
+  src: url('/fonts/manrope/static/Manrope-Regular.ttf');
 }
 
 @font-face {
-    font-family: 'Fraunces';
-    src: url('../public/fonts/fraunces/static/Fraunces_144pt-SemiBold.ttf');
+  font-family: 'Fraunces';
+  src: url('/fonts/fraunces/static/Fraunces_144pt-SemiBold.ttf');
 }
