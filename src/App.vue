@@ -1,13 +1,7 @@
 <script setup lang="ts">
 </script>
-
 <template>
-  <header>
-  </header>
-
-  <main>
-    <div class="title">Everything work right</div>
-  </main>
+  <div></div>
 </template>
 
 <style scoped>
